@@ -5,5 +5,12 @@ The Article: https://medium.com/@yavuzselimsefunc/creating-customer-scoring-feat
 
 The dataset: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
-#Findings
+# Findings
+<p align="center">
+  <img src="https://github.com/yssefunc/gaussian_mixture_model_scoring/blob/master/img/1.JPG">
+</p>
+<p align="center">
+  <img src="https://github.com/yssefunc/gaussian_mixture_model_scoring/blob/master/img/2.JPG">
+</p>
+
 
